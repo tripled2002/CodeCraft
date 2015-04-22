@@ -164,6 +164,106 @@ router.get('/costumes', function(req, res) {
 			url: "codecraft/Costumes/unicorn1.png",
 			name: "unicorn1.png",
 			tag1: "animal"
+		},
+		{
+			url: "codecraft/Costumes/local/singapore/bubbletea.png",
+			name: "bubbletea.png",
+			tag1: "singapore"
+		},
+		{
+			url: "codecraft/Costumes/local/singapore/coffeepacket.png",
+			name: "coffeepacket.png",
+			tag1: "singapore"
+		},
+		{
+			url: "codecraft/Costumes/local/singapore/flag.png",
+			name: "flag.png",
+			tag1: "singapore"
+		},
+		{
+			url: "codecraft/Costumes/local/singapore/laksa.png",
+			name: "laksa.png",
+			tag1: "singapore"
+		},
+		{
+			url: "codecraft/Costumes/local/singapore/merlion.png",
+			name: "merlion.png",
+			tag1: "singapore"
+		},
+		{
+			url: "codecraft/Costumes/local/singapore/satay.png",
+			name: "satay.png",
+			tag1: "singapore"
+		},
+		{
+			url: "codecraft/Costumes/local/singapore/sg.png",
+			name: "sg.png",
+			tag1: "singapore"
+		},
+		{
+			url: "codecraft/Costumes/local/china/china.png",
+			name: "china.png",
+			tag1: "china"
+		},
+		{
+			url: "codecraft/Costumes/local/china/chinaboat.png",
+			name: "chinaboat.png",
+			tag1: "china"
+		},
+		{
+			url: "codecraft/Costumes/local/china/dimsum.png",
+			name: "dimsum.png",
+			tag1: "china"
+		},
+		{
+			url: "codecraft/Costumes/local/china/mandarin.png",
+			name: "mandarin.png",
+			tag1: "china"
+		},
+		{
+			url: "codecraft/Costumes/local/china/sheep.png",
+			name: "sheep.png",
+			tag1: "china"
+		},
+		{
+			url: "codecraft/Costumes/local/india/buddha.png",
+			name: "buddha.png",
+			tag1: "india"
+		},
+		{
+			url: "codecraft/Costumes/local/india/spice.png",
+			name: "spice.png",
+			tag1: "india"
+		},
+		{
+			url: "codecraft/Costumes/local/india/boy.png",
+			name: "boy.png",
+			tag1: "india"
+		},
+		{
+			url: "codecraft/Costumes/local/japan/isuzu.png",
+			name: "isuzu.png",
+			tag1: "japan"
+		},
+		{
+			url: "codecraft/Costumes/local/japan/moffu.png",
+			name: "moffu.png",
+			tag1: "japan"
+		},
+		{
+			url: "codecraft/Costumes/local/japan/sushi.png",
+			name: "sushi.png",
+			tag1: "japan"
+		},
+		{
+			url: "codecraft/Costumes/local/japan/sushi2.png",
+			name: "sushi2.png",
+			tag1: "japan"
+		},
+		{
+			url: "codecraft/Costumes/local/japan/sushi3.png",
+			name: "sushi3.png",
+			tag1: "japan"
 		}
 	]
 
